@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Time_flow"
+  id="myeclipse.1473818901615"
+  context-root="/Time_flow"
+  j2ee-spec="5.0"
+  archive="Time_flow.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
